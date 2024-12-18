@@ -1,3 +1,7 @@
+//Nama : M Wildan Wibisono
+//NIM: 244107060118
+//No Absen: 14
+
 import java.util.Scanner;
 
 public class UAS1C14 {
